@@ -13,8 +13,5 @@ Building this clone helped me practice and understand:
 * HTML5
 * CSS3
 
-## 📸 Preview
-*(You can add a screenshot of your clone here)*
-
 ## 🚀 How to Run
 Simply download or clone the repository and open `index.html` in your browser. No server or build tools are required!
